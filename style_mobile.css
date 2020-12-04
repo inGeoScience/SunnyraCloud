@@ -194,7 +194,7 @@ body {
 }
 
 .mdui-container {
-	max-width: 980px;
+	max-width: 91%;
         background-color:white;
         opacity: .9;
         margin-top: 4%;
@@ -233,8 +233,7 @@ body {
 	}
 
 	.mdui-container {
-		width: 100%!important;
-		margin: 0
+
 	}
 
 	.mdui-toolbar>* {
