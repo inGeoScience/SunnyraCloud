@@ -8,7 +8,7 @@ body{
 	display: none
 }
 .mdui-col-md-6{
-	background: rgba(255, 255, 255, 0.7);
+	background: rgba(255, 255, 255, 0);
 	border-radius: 5px;
 	position: relative;
 	top: 50px;
